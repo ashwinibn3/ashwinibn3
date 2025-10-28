@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Ashwini Basavanahalli Nagaraju  
+# 👋 Hi there, I'm Ashwini
 
-🎯 *Data Analyst | Aspiring Data Engineer | MSc Big Data & Business Intelligence (University of Greenwich)*  
+🎯 *Data Analyst | Emerging Data Engineer | MSc Big Data & Business Intelligence (University of Greenwich)*  
 
 ---
 
@@ -34,4 +34,4 @@ Python | SQL | Power BI | Azure Data Factory | dbt | Databricks | Pandas | sciki
 
 ---
 
-⭐ *“Turning data into impact — one pipeline and one dashboard at a time.”*
+⭐ *“Where SQL meets storytelling and Python meets purpose”*
